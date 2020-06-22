@@ -6,8 +6,8 @@ category: info
 
 ipr: trust200902
 area: General
-workgroup: Internet Research Task Force (IRTF)
-keyword: Internet-Draft
+workgroup: Crypto Forum
+keyword: Internet-Draft, Deoxys, Authenticated Encryption
 
 stand_alone: yes
 coding: UTF-8
