@@ -10,6 +10,7 @@ workgroup: Internet Research Task Force (IRTF)
 keyword: Internet-Draft
 
 stand_alone: yes
+coding: UTF-8
 pi: [toc, sortrefs, symrefs]
 
 author:
