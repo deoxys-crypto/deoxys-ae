@@ -2,7 +2,7 @@
 title: "Deoxys-based Authenticated Encryption"
 abbrev: "Deoxys-AE"
 docname: draft-ietf-deoxys-ae-latest
-category: Informational
+category: info
 
 ipr: trust200902
 area: General
