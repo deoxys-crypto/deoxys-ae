@@ -1,7 +1,7 @@
 ---
 title: "Deoxys-based Authenticated Encryption"
 abbrev: "Deoxys-AE"
-docname: draft-ietf-deoxys-ae-latest
+docname: draft-irtf-cfrg-deoxys-ae-latest
 category: info
 
 ipr: trust200902
@@ -29,7 +29,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This document specifies three authenticated encryption with associated data algorithms based on the Deoxys-TBC tweakable block ciphers. The first is a single-pass nonce-respecting beyond birthday bound secure mode. The second is a two-pass beyond birthday bound nonce-misuse resistant mode (maintains some security even in the case where the nonce is repeated). The last one is a single-pass leakage resilient mode. 
 
 --- middle
 
