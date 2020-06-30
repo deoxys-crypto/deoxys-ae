@@ -10,7 +10,9 @@
 .targets.mk
 /*-[0-9][0-9].xml
 archive.json
+draft-ietf-deoxys-ae.xml
+lib
 report.xml
 venv/
 lib
-draft-ietf-deoxys-ae.xml
+draft-irtf-cfrg-deoxys-ae.xml
